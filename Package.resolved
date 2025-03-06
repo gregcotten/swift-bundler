@@ -57,10 +57,10 @@
     {
       "identity" : "socket",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/PureSwift/Socket",
+      "location" : "https://github.com/gregcotten/Socket",
       "state" : {
-        "revision" : "253aef83213691b705dfeec8e20bfd7a72219fec",
-        "version" : "0.4.0"
+        "branch" : "fix-csocket-import",
+        "revision" : "916166402dcbe85fa83b8a55768aad8c72065fc8"
       }
     },
     {
